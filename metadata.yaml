@@ -1,0 +1,33 @@
+_repo: De-Nederlandse-kerken-en-de-joden-1940-1945--13-De-protesten-bij-Seyss-Inquart-hulp-aan-joods__17139
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Snoek, Johan M.
+    aliases:
+    - Snoek, Johan Martinus
+    - Snoek, J. M. (Johan M.)
+    birthdate: 1920
+    gutenberg_agent_id: '5673'
+    url: http://www.gutenberg.org/2009/agents/5673
+description: ''
+gutenberg_issued: '2005-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17139'
+language: nl
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'DS'
+- !lcsh 'Jews -- Persecutions -- Netherlands'
+- !lcsh 'Netherlands -- Church history -- 20th century'
+- !lcsh 'Netherlands -- Ethnic relations'
+- !lcsh 'Righteous Gentiles in the Holocaust -- Netherlands'
+- !lcsh 'Holocaust, Jewish (1939-1945) -- Netherlands'
+title: "De Nederlandse kerken en de joden, 1940-1945\r\nDe protesten bij Seyss-Inquart,\
+  \ hulp aan joodse onderduikers, de motieven voor hulpverlening"
+url: http://www.gutenberg.org/ebooks/17139
